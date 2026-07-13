@@ -104,7 +104,7 @@ A estrutura de pilha é utilizada para exibir os comentários mais recentes, res
 
 Você pode acessar o projeto diretamente pelo GitHub Pages:
 
-🔗 **https://naclaragsd.github.io/portalDoCidadaoAEP_2026/**
+🔗 **https://heloysaf.github.io/Portal_Cidad-o/
 
 Ou executar localmente:
 
